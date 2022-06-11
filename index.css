@@ -1,0 +1,15 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    background-color: yellow;
+}
+
+canvas {
+    background-color: lightgoldenrodyellow;
+    border-width: 3.4px;
+    border-color: gainsboro;
+    border-style: double;
+    margin-top: 30px;
+}
